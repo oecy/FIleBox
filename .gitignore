@@ -4,6 +4,10 @@ target/
 **/src/main/**/target/
 **/src/test/**/target/
 
+mvnw.cmd
+mvnw
+.mvn/
+
 ### STS ###
 .apt_generated
 .classpath
@@ -13,8 +17,6 @@ target/
 .springBeans
 .sts4-cache
 
-mvnw.cmd
-mvnw
 ### IntelliJ IDEA ###
 .idea
 *.iws
